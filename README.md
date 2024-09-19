@@ -8,22 +8,14 @@
 
 ---
 
-## MLDL Team Project
-> **우리fisa 3기 AI 엔지니어링** <br/> **프로젝트 날짜: 2024.09.19**<br/>
-
+## MLDL Mini Project
 bank data를 이용하여 최적의 결과를 내는 분류기를 만든다.
-
-
-
 
 ## Team
 
 |<img src="https://avatars.githubusercontent.com/u/174994389?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/97214987?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/79956717?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/133483250?v=4" width="150" height="150"/>|
 |:-:|:-:|:-:|:-:|
 |Jinwon<br/>[@yonggaljjw](https://github.com/yonggaljjw)|Juran<br/>[@juuurr](https://github.com/juuurr)|Gunwoo<br/>[@rhrjsdn3853](https://github.com/rhrjsdn3853)|Yehee<br/>[@greenmelonlee](https://github.com/greenmelonlee)|
-
-
-
 
 ## 주요 단계
 1. 데이터 차원
