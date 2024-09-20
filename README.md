@@ -8,8 +8,8 @@
 
 ---
 
-## MLDL Mini Project 🗃️
-bank data를 이용하여 최적의 결과를 내는 분류기를 만든다.
+# ML MINI PROJECT - BANK DATASET 🗃️
+Bank Dataset을 활용하여 최적의 Deposit 결과를 내는 분류기를 만든다.
 
 </br>
 
@@ -45,7 +45,10 @@ bank data를 이용하여 최적의 결과를 내는 분류기를 만든다.
 
 ## 꿀팁 🍯
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/aefd7140-c54f-4af1-b111-2968d3e21671">
-    
+
+## 데이터셋 출처
+- [Bank Marketing Data Set(https://archive.ics.uci.edu/ml/datasets/Bank+Marketing)](https://archive.ics.uci.edu/ml/datasets/Bank+Marketing)
+
 ---
 
 ## Team 🧑‍🧑‍🧒‍🧒
