@@ -37,9 +37,9 @@ Bank Dataset을 활용하여 최적의 Deposit 결과를 내는 분류기를 만
     |<img width="500" alt="image" src="https://github.com/user-attachments/assets/728c8d3a-706f-47e4-b92c-cfe7abca309e">|<img width="500" alt="image" src="https://github.com/user-attachments/assets/a5f01a39-ea44-4568-9ec8-a7018294aec0">|
     |<img width="500" alt="image" src="https://github.com/user-attachments/assets/fd846258-f8f8-427e-b596-e8af610c3d1a">|<img width="500" alt="image" src="https://github.com/user-attachments/assets/b780014c-a093-4456-9192-14bca21ef43b">|
     
-2. Ensemble Model 활용시 성능이 더 떨어지는 문제가 있었다. </br></br>
+2. 여러개의 모델 활용시 성능이 더 떨어지는 문제가 있었다. </br></br>
    <img width="500" alt="image" src="https://github.com/user-attachments/assets/9d90c193-a8a0-4fcf-915a-9adb2d76f3bf"></br>
-   |Top 3 Model|Ensemble Model 적합|
+   |Top 3 Model|여러개의 Model 적합|
    |:--:|:--:|
    |<img width="500" alt="image" src="https://github.com/user-attachments/assets/f8585db6-b9fb-415a-926e-9944350157ba">|<img width="500" alt="image" src="https://github.com/user-attachments/assets/037d7034-b778-4f03-83af-5f06219ac419">|
 
